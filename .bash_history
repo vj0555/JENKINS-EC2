@@ -1,0 +1,9 @@
+sudo su
+sudo apt-get
+sudo su
+sudo su 
+sudo su
+suodm su
+sudo su
+sudo sus
+sudo su

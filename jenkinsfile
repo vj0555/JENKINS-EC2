@@ -1,0 +1,7 @@
+!/bin/sh
+
+
+# Author: Vishal
+# What does this script do: It launches an ec2 instance in my aws account 
+
+aws ec2 run-instances --image-id ami-0e0ff68cb8e9a188a --count 1 --instance-type t2.micro --security-groups-ids sg-0cdcc4f59a03e3af7 (launch-wizard-32 --region ap-south-1
